@@ -2,8 +2,7 @@ Proiectul va avea o tema economică (finanţe, contabilitate, statistica etc).
 Proiectul va conţine obligatoriu următoarele elemente:
 1. Descrierea temei economice alese (1/2 pag)
 2. Schema conceptuala pentru modelarea temei alese (minim 4 tabele). Din schema va trebui sa
-rezulte tipul legăturilor dintre entităţi după modelul:
-http://bd.ase.ro/uploads/bd_seminar_zi/diagrama_hr.jpg
+rezulte tipul legăturilor dintre entităţi.
 3. Construirea bazei de date – tabele, legături între tabele şi restricţii de integritate. Exemplificarea
 operaţiile LDD (CREATE, ALTER, DROP) asupra tabelelor (min 7).
 4. Exemple cu operaţii de actualizare a datelor: INSERT, UPDATE, DELETE, MERGE(opţional)
